@@ -27,7 +27,7 @@
   
   
   ## Features
-  To create a simple README file
+  A feature that this README generator includes is the ability to add a license along with a badge to fit the project.
 
 
   ## Contributing
