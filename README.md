@@ -35,7 +35,7 @@
 
 
   ## Tests
-  To test the program, when in VS code. Enter "node index.js" in the terminal to initialize the series of prompts.
+  To test the program, when in VS code. Enter `node index.js` in the terminal to initialize the series of prompts.
 
   ## Questions
   If you have any questions, please reach me at matthewkausfox@gmail.com. 
