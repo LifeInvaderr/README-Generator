@@ -2,7 +2,7 @@
   
 
   ## Description
-  With this project, you will be able to create a formatted README file after answering a series of questions
+  With this project, you will be able to create a formatted README file after answering a series of questions.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -16,7 +16,7 @@
   
 
   ## Installation
-  To install this project, please clone or download the zip file. After installing the file, when opening the file withing VS code. Please enter "npm install" as to download the required packages to run.
+  To install this project, please clone or download the zip file. After installing the file, when opening the file withing VS code run `npm install` as to download the required packages to run.
 
   ## Usage
   The usage for this project will allow anyone to create a formatted README file
